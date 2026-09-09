@@ -10,3 +10,10 @@ claim.
 
 The `materials/` directory contains the current public note. Please treat all
 claims as provisional until the mathematical discussion is complete.
+
+## LaTeX and references
+
+`conjecture.tex` is a compact, reproducible summary of the problem. The
+`references/` directory contains open-access preprints and `references.bib`;
+the downloaded PDFs are included for research convenience under their arXiv
+open-access links.
